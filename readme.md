@@ -2,10 +2,6 @@
 
 ###### Credits: [Weakhoes](https://github.com/weakhoes/Roblox-UI-Libs)
 
-<p style="justify-content: between">
-  <a href="https://github.com/Weakhoes"><img width="15%" src="https://github.com/Weakhoes.png"></a>
-</p>
-
 ## Abyss Lib
 <p style="justify-content: between">
   <a href="src/libs/Abyss Lib/"><img width="30%" src="https://user-images.githubusercontent.com/83477843/224578562-e6695969-74dd-407d-a28a-29cbf515f6dc.png"></a>
