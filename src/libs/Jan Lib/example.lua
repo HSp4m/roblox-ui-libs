@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://garfieldscripts.xyz/ui-libs/janlib.lua'))() -- this link is prob dead use source.lua raw link instead
+loadstring(game:HttpGet('https://raw.githubusercontent.com/HSp4m/roblox-ui-libs/main/src/libs/Jan%20Lib/source.lua'))() -- this link is prob dead use source.lua raw link instead
 -- [Legit Tab UI] ------------------------------------------------------------------------------------------------------------------------------------------------------------
 local LegitTab = library:AddTab("Legit"); 
 local LegitColunm1 = LegitTab:AddColumn();

@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vozoid/ui-libraries/main/drawing/void/source.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/HSp4m/roblox-ui-libs/main/src/libs/Void%20Lib/source.lua"))()
 
 local watermark = library:Watermark("watermark | 60 fps | v4.20 | dev")
 -- watermark:Set("Watermark Set")
