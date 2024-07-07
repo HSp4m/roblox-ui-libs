@@ -94,9 +94,6 @@
 ## Vanis Lib
 <a href="https://github.com/hsp4m"><img width="60%" src="https://user-images.githubusercontent.com/83477843/202882539-90ef5056-1c8f-4bbe-bda1-d34e20e3055d.png"></a>
 
-## Venus Lib
-<a href="https://github.com/hsp4m"><img width="60%" src="https://user-images.githubusercontent.com/83477843/183229103-0fa28bc3-19b3-41fa-aa68-d2427bc20ed7.png"></a>
-
 ## Void Lib
 <a href="https://github.com/hsp4m"><img width="60%" src="src/images/void.png"></a>
 
